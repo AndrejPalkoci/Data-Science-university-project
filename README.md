@@ -1,4 +1,26 @@
-﻿# ProjectGroup5
+# Wind Energy Forecasting – ProjectGroup5
+
+A data science group project developed at The Hague University of Applied Sciences (THUAS).
+
+## About
+This project analyses Dutch weather and energy data to predict daily wind power generation in the Netherlands for 2022. We built a machine learning pipeline using Orange Data Mining with a Random Forest model, trained on historical data from 2017–2021.
+
+## Tech Stack
+- Python / Jupyter Notebook
+- Orange Data Mining
+- Pandas, NumPy, Matplotlib
+- MongoDB
+
+## My Contributions
+- Data cleaning and preprocessing
+- Dual-axis visualisation of predictions vs actual output
+- contribution on dashboard, api, MongoDB database
+  -comming up with useful dashboard features 
+- Scrum Master responsibilities
+- Chapter 4,5,7 of the final report
+ 
+ 
+ # Project description in detail
 
  Project 1: Wind Energy Forecasting Using Dutch Weather Data
 Stakeholder & Problem Context
